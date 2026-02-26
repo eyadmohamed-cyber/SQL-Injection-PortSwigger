@@ -1,4 +1,4 @@
-# SQL-Injection-PortsSwigger
+# SQL-Injection-PortSwigger
 Documenting my learning journey for SQL Injection
 ## PortSwigger Web Academy - SQL Injection
 
